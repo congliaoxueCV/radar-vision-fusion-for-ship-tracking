@@ -36,5 +36,11 @@ Requests should include:
 
 The dataset is available **for non-commercial research purposes only**.
 
+---
+
+## 📜 License
+
+Visualisations in this repository are shared under the terms of the **LICENSE** file.  
+Full dataset access requires prior permission from the corresponding authors.
 
 
